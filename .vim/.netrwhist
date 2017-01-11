@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/aric/dev/prototest'
+let g:netrw_dirhist_2='/Users/aric/dev/prototest/node_modules'
+let g:netrw_dirhist_3='/Users/aric/dev/prototest/node_modules/@protobufjs'
+let g:netrw_dirhist_4='/Users/aric/dev/prototest/node_modules/@protobufjs/inquire'
+let g:netrw_dirhist_5='/Users/aric/dev/prototest/node_modules/@protobufjs'
+let g:netrw_dirhist_6='/Users/aric/dev/prototest/node_modules'
+let g:netrw_dirhist_7='/Users/aric/dev/prototest'
+let g:netrw_dirhist_8='/Users/aric/dev'
+let g:netrw_dirhist_9='/Users/aric'
